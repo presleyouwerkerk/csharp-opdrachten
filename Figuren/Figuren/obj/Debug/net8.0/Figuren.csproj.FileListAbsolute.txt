@@ -1,0 +1,14 @@
+C:\Users\Presley\source\repos\Figuren\Figuren\bin\Debug\net8.0\Figuren.exe
+C:\Users\Presley\source\repos\Figuren\Figuren\bin\Debug\net8.0\Figuren.deps.json
+C:\Users\Presley\source\repos\Figuren\Figuren\bin\Debug\net8.0\Figuren.runtimeconfig.json
+C:\Users\Presley\source\repos\Figuren\Figuren\bin\Debug\net8.0\Figuren.dll
+C:\Users\Presley\source\repos\Figuren\Figuren\bin\Debug\net8.0\Figuren.pdb
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.AssemblyInfoInputs.cache
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.AssemblyInfo.cs
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.csproj.CoreCompileInputs.cache
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.dll
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\refint\Figuren.dll
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.pdb
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\Figuren.genruntimeconfig.cache
+C:\Users\Presley\source\repos\Figuren\Figuren\obj\Debug\net8.0\ref\Figuren.dll
