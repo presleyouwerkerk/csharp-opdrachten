@@ -33,7 +33,7 @@ namespace student_staff_console_application
 
         public override string ToString()
         {
-            return $"Staff[Person[name={Name}, address={Address}], school={School}, pay={Pay}]";
+            return $"Staff : name={Name}, address={Address}, school={School}, pay={Pay}";
         }
     }
 }

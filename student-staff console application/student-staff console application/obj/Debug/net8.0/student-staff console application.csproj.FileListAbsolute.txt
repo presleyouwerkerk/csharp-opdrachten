@@ -12,3 +12,4 @@ C:\Users\Presley\source\repos\student-staff console application\student-staff co
 C:\Users\Presley\source\repos\student-staff console application\student-staff console application\obj\Debug\net8.0\student-staff console application.pdb
 C:\Users\Presley\source\repos\student-staff console application\student-staff console application\obj\Debug\net8.0\student-staff console application.genruntimeconfig.cache
 C:\Users\Presley\source\repos\student-staff console application\student-staff console application\obj\Debug\net8.0\ref\student-staff console application.dll
+C:\Users\Presley\source\repos\student-staff console application\student-staff console application\obj\Debug\net8.0\student-staff console application.sourcelink.json

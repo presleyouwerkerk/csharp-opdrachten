@@ -28,7 +28,7 @@ namespace student_staff_console_application
 
         public override string ToString()
         {
-            return $"Person[name={Name}, address={Address}]";
+            return $"Person : name={Name}, address={Address}";
         }
     }
 }

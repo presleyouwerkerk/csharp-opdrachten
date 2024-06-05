@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|c:\\users\\presley\\source\\repos\\student-staff console application\\student-staff console application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|solutionrelative:student-staff console application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|c:\\users\\presley\\source\\repos\\student-staff console application\\student-staff console application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|solutionrelative:student-staff console application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|c:\\users\\presley\\source\\repos\\student-staff console application\\student-staff console application\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|solutionrelative:student-staff console application\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|c:\\users\\presley\\source\\repos\\student-staff console application\\student-staff console application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C654B-E093-41FB-A5A5-C0D58198E2A4}|student-staff console application\\student-staff console application.csproj|solutionrelative:student-staff console application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Person.cs",
               "RelativeDocumentMoniker": "student-staff console application\\Person.cs",
               "ToolTip": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Person.cs",
               "RelativeToolTip": "student-staff console application\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:12:06.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Student.cs",
               "RelativeDocumentMoniker": "student-staff console application\\Student.cs",
               "ToolTip": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Student.cs",
               "RelativeToolTip": "student-staff console application\\Student.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:12:30.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Staff.cs",
               "RelativeDocumentMoniker": "student-staff console application\\Staff.cs",
               "ToolTip": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Staff.cs",
               "RelativeToolTip": "student-staff console application\\Staff.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:12:53.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\student-staff console application\\student-staff console application\\Program.cs",
               "RelativeDocumentMoniker": "student-staff console application\\Program.cs",
