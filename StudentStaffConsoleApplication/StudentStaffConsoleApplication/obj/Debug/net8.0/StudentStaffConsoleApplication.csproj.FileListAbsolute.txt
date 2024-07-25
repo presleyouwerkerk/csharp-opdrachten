@@ -1,0 +1,15 @@
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\bin\Debug\net8.0\StudentStaffConsoleApplication.exe
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\bin\Debug\net8.0\StudentStaffConsoleApplication.deps.json
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\bin\Debug\net8.0\StudentStaffConsoleApplication.runtimeconfig.json
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\bin\Debug\net8.0\StudentStaffConsoleApplication.dll
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\bin\Debug\net8.0\StudentStaffConsoleApplication.pdb
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.AssemblyInfo.cs
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.sourcelink.json
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.dll
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\refint\StudentStaffConsoleApplication.dll
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.pdb
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\StudentStaffConsoleApplication.genruntimeconfig.cache
+C:\Users\Presley\source\repos\StudentStaffConsoleApplication\StudentStaffConsoleApplication\obj\Debug\net8.0\ref\StudentStaffConsoleApplication.dll

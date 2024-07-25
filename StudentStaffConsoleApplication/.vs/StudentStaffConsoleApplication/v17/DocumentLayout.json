@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|c:\\users\\presley\\source\\repos\\studentstaffconsoleapplication\\studentstaffconsoleapplication\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|solutionrelative:studentstaffconsoleapplication\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|c:\\users\\presley\\source\\repos\\studentstaffconsoleapplication\\studentstaffconsoleapplication\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|solutionrelative:studentstaffconsoleapplication\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|c:\\users\\presley\\source\\repos\\studentstaffconsoleapplication\\studentstaffconsoleapplication\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|solutionrelative:studentstaffconsoleapplication\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|c:\\users\\presley\\source\\repos\\studentstaffconsoleapplication\\studentstaffconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E007ABA-F266-4453-88BD-FB368CD14802}|StudentStaffConsoleApplication\\StudentStaffConsoleApplication.csproj|solutionrelative:studentstaffconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Person.cs",
+              "RelativeDocumentMoniker": "StudentStaffConsoleApplication\\Person.cs",
+              "ToolTip": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Person.cs",
+              "RelativeToolTip": "StudentStaffConsoleApplication\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:40:32.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Student.cs",
+              "RelativeDocumentMoniker": "StudentStaffConsoleApplication\\Student.cs",
+              "ToolTip": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Student.cs",
+              "RelativeToolTip": "StudentStaffConsoleApplication\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:40:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Staff.cs",
+              "RelativeDocumentMoniker": "StudentStaffConsoleApplication\\Staff.cs",
+              "ToolTip": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Staff.cs",
+              "RelativeToolTip": "StudentStaffConsoleApplication\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:40:41.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "StudentStaffConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Presley\\source\\repos\\StudentStaffConsoleApplication\\StudentStaffConsoleApplication\\Program.cs",
+              "RelativeToolTip": "StudentStaffConsoleApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:39:52.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
