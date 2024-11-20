@@ -1,0 +1,10 @@
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\bin\Debug\Tekstverwerker.exe.config
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\bin\Debug\Tekstverwerker.exe
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\bin\Debug\Tekstverwerker.pdb
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.csproj.AssemblyReference.cache
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.Form1.resources
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.Properties.Resources.resources
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.csproj.GenerateResource.cache
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.csproj.CoreCompileInputs.cache
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.exe
+C:\Users\presl\source\repos\Tekstverwerker\Tekstverwerker\obj\Debug\Tekstverwerker.pdb
